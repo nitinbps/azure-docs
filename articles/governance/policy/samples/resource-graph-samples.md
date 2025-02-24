@@ -19,7 +19,7 @@ for Azure Policy.
 
 [!INCLUDE [policy-resources-exemption-query](../../includes/policy/policy-resources-exemption-query.md)]
 
-## Azure Policy Guest Configuration
+## Azure Policy Machine Configuration (Guest Configuration)
 
 [!INCLUDE [azure-resource-graph-samples-cat-policy-gc](../../includes/policy/azure-policy-guest-configuration.md)]
 
